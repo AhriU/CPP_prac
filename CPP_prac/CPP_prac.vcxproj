@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Person.h" />
+    <ClInclude Include="NamedObj.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Person.cpp" />
-    <ClCompile Include="PrsnMain.cpp" />
+    <ClCompile Include="NamedObj.cpp" />
+    <ClCompile Include="StaticDM.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
