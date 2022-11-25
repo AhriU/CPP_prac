@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Complex1.h" />
+    <ClInclude Include="Pencils.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C1Main.cpp" />
-    <ClCompile Include="Complex1.cpp" />
+    <ClCompile Include="Pencils.cpp" />
+    <ClCompile Include="PnclMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

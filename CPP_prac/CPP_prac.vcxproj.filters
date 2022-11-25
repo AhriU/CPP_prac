@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Complex1.h">
+    <ClInclude Include="Pencils.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Complex1.cpp">
+    <ClCompile Include="Pencils.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C1Main.cpp">
+    <ClCompile Include="PnclMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
