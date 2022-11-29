@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Person2.h">
+    <ClInclude Include="Person.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Student2.h">
+    <ClInclude Include="Student.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StudMain2.cpp">
+    <ClCompile Include="SBinding.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
