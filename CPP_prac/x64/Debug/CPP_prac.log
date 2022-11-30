@@ -1,16 +1,2 @@
-﻿  Circle.cpp
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): error C2664: 'GrAttrib::GrAttrib(const GrAttrib &)': 인수 1을(를) 'GrAttrib (__cdecl *)(void)'에서 'const GrAttrib &'(으)로 변환할 수 없습니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): message : 원인: 'overloaded-function'에서 'const GrAttrib'(으)로 변환할 수 없습니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\GrAttrib.h(28,1): message : 'GrAttrib::GrAttrib' 선언을 참조하십시오.
-  FigMain.cpp
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): error C2664: 'GrAttrib::GrAttrib(const GrAttrib &)': 인수 1을(를) 'GrAttrib (__cdecl *)(void)'에서 'const GrAttrib &'(으)로 변환할 수 없습니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): message : 원인: 'overloaded-function'에서 'const GrAttrib'(으)로 변환할 수 없습니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\GrAttrib.h(28,1): message : 'GrAttrib::GrAttrib' 선언을 참조하십시오.
-  Triangle.cpp
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): error C2664: 'GrAttrib::GrAttrib(const GrAttrib &)': 인수 1을(를) 'GrAttrib (__cdecl *)(void)'에서 'const GrAttrib &'(으)로 변환할 수 없습니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): message : 원인: 'overloaded-function'에서 'const GrAttrib'(으)로 변환할 수 없습니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\Figure.h(10,8): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
-D:\MYPC\Desktop\Study\CPP\CPP_prac\CPP_prac\GrAttrib.h(28,1): message : 'GrAttrib::GrAttrib' 선언을 참조하십시오.
-  코드를 생성하고 있습니다...
+﻿  VBMain.cpp
+  CPP_prac.vcxproj -> D:\MYPC\Desktop\Study\CPP\CPP_prac\x64\Debug\CPP_prac.exe

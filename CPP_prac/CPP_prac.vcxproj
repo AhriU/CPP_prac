@@ -19,15 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Circle.h" />
-    <ClInclude Include="Figure.h" />
-    <ClInclude Include="GrAttrib.h" />
-    <ClInclude Include="Triangle.h" />
+    <ClInclude Include="VBEmployee.h" />
+    <ClInclude Include="VBParttime.h" />
+    <ClInclude Include="VBPerson.h" />
+    <ClInclude Include="VBStudent.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Circle.cpp" />
-    <ClCompile Include="FigMain.cpp" />
-    <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="VBMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
