@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="VBEmployee.h" />
-    <ClInclude Include="VBParttime.h" />
-    <ClInclude Include="VBPerson.h" />
-    <ClInclude Include="VBStudent.h" />
+    <ClInclude Include="MyString.h" />
+    <ClInclude Include="Stack1.h" />
+    <ClInclude Include="StackT.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VBMain.cpp" />
+    <ClCompile Include="Mystring.cpp" />
+    <ClCompile Include="StackTMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

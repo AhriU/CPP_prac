@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="VBPerson.h">
+    <ClInclude Include="Stack1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="VBStudent.h">
+    <ClInclude Include="StackT.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="VBEmployee.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="VBParttime.h">
+    <ClInclude Include="MyString.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VBMain.cpp">
+    <ClCompile Include="Mystring.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StackTMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
