@@ -20,12 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyString.h" />
-    <ClInclude Include="Stack1.h" />
-    <ClInclude Include="StackT.h" />
+    <ClInclude Include="SortFT.h" />
+    <ClInclude Include="SwapFT.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FTMain.cpp" />
     <ClCompile Include="Mystring.cpp" />
-    <ClCompile Include="StackTMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
