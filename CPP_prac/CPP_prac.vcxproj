@@ -19,7 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PBookMap.cpp" />
+    <ClInclude Include="IntArray1.h" />
+    <ClInclude Include="IntArray2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IA2Main.cpp" />
+    <ClCompile Include="IntArray1.cpp" />
+    <ClCompile Include="IntArray2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
